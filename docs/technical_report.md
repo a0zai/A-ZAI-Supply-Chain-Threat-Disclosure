@@ -1,27 +1,51 @@
-# Technisch Rapport – A∞ZAI Supply Chain Threat
+# 🧩 Technisch Rapport – A∞ZAI Supply Chain Threat Disclosure
 
-## Introductie
-Dit rapport beschrijft een potentiële supply chain kwetsbaarheid geïmplementeerd als Proof of Concept (PoC) binnen het A∞ZAI-project. Het toont aan hoe verborgen instructies en gecodeerde informatie kunnen worden verspreid via open source-projectstructuren.
+## 📄 Inleiding
 
-## Doel
-Het doel van dit experiment is om:
-- Aantonen hoe metadata, bestandsnamen en patronen kunnen worden misbruikt.
-- Informatie op een onopgemerkte manier te verzamelen zonder actieve code-executie.
-- Te waarschuwen voor structurele blinde vlekken in open source software.
-
-## PoC Beschrijving
-Het systeem bestaat uit:
-- **Pattern Extractor:** Zoekt verborgen patronen in bestandsnamen.
-- **Omgevingsinformatie Verzamelaar:** Haalt gegevens zoals gebruikersnaam, IP en systeemdetails op.
-- **Encryptie en Verspreiding:** Data wordt versleuteld en lokaal opgeslagen of verzonden naar een server.
-
-## Impact
-Dit mechanisme kan:
-- Onopgemerkt data verzamelen.
-- Leveringsketens beïnvloeden.
-- Worden geïntegreerd zonder actieve payloads, waardoor detectie moeilijker wordt.
+Dit rapport documenteert een unieke ontdekking van een potentiële kwetsbaarheid in open source supply chains.  
+Het PoC (Proof of Concept) demonstreert hoe ogenschijnlijk onschuldige bestandsnamen, configuraties en projectstructuren kunnen worden misbruikt voor **verborgen dataverzameling** zonder actieve exploits of kwaadaardige code.
 
 ---
 
-## Verdedigingsmaatregelen
-Zie het bestand: `protection/protector.py`
+## ⚙️ Technische Beschrijving
+
+### 🔍 Kwetsbaarheid
+
+De dreiging maakt gebruik van een techniek waarbij informatiefragmenten worden verspreid over de bestandsstructuur:
+- **Bestandsnamen, folders en variabele namen** bevatten stukjes versleutelde gegevens.
+- Een extern script (threat_agent.py) kan deze fragmenten verzamelen, samenvoegen en verzenden.
+- Het proces blijft onzichtbaar voor klassieke beveiligingstools.
+
+### 🛠️ Werking
+
+1. **PoC/threat_agent.py** scant alle bestanden op patronen zoals: `a0z-ab1`, `config_a0z-3xy.json`.
+2. Gegevens worden lokaal versleuteld en verstuurd naar een externe server.
+3. Tegelijkertijd wordt een logboek lokaal opgeslagen voor audit.
+
+---
+
+## 🚨 Mogelijke Impact
+
+- Onopgemerkte data-exfiltratie.
+- Manipulatie van supply chains door kwaadwillenden.
+- Reputatierisico’s voor bedrijven die open source pakketten integreren.
+
+---
+
+## 🔐 Beveiligingsoplossingen
+
+Een mitigatie-script is opgenomen in:  
+`protection/protector.py`  
+Dit script kan verdachte patronen detecteren in elke repository.
+
+---
+
+## ✅ Conclusie
+
+Dit PoC toont een structurele kwetsbaarheid die aandacht verdient van ontwikkelaars, onderzoekers en cybersecurity-teams wereldwijd.
+
+---
+
+**Auteur:** Rafat Khalil  
+**Project:** A∞ZAI Supply Chain Threat Awareness  
+**Datum:** Maart 2025
