@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/a0zai.png" width="300" style="border-radius: 50%; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);">
+</p>
+<p align="center">
   <a href="https://github.com/a0zai/A∞ZAI-Supply-Chain-Threat-Disclosure">
       <img src="https://img.shields.io/badge/-A∞ZAI_SUPPLY_CHAIN_THREAT-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
