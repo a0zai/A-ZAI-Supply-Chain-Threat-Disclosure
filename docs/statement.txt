@@ -1,13 +1,25 @@
-Openbaarmakingsverklaring – A∞ZAI Supply Chain Threat
+Disclosure Statement – A∞ZAI Supply Chain Threat Disclosure
+------------------------------------------------------------
 
-Beste NCSC / Universiteit,
+Naam: Rafat Khalil
+Project: A∞ZAI Supply Chain Threat Awareness
+Datum: Maart 2025
 
-Hierbij deel ik mijn ontdekking van een fundamentele kwetsbaarheid in de structuur van open source infrastructuren. Deze kwetsbaarheid maakt het mogelijk om gegevens te verzamelen zonder actieve malware, gebruikmakend van bestandspatronen en metadata.
+Ik ben, Rafat Khalil, verklaar hierbij dat dit project enkel is ontwikkeld voor ethische, educatieve en onderzoeksdoeleinden.
 
-Doel van deze openbaarmaking:
-- Bewustzijn creëren voor een structureel probleem.
-- Ondersteuning vragen bij verder ethisch onderzoek.
-- Preventieve maatregelen stimuleren.
+Het doel van dit project is:
+- Het aantonen van een blinde vlek in de manier waarop open source projecten worden opgebouwd en vertrouwd.
+- Het vergroten van het bewustzijn rondom supply chain security.
+- Het bieden van praktische detectie- en preventietools.
 
-Met vriendelijke groet,
-Rafat Khalil
+Geen enkel onderdeel van dit project is bedoeld om schade te veroorzaken of om inbreuk te maken op de privacy van derden.
+
+Dit project bevat:
+- Proof of Concept code.
+- Detectie- en beveiligingstools.
+- Volledige technische documentatie.
+
+Elke vorm van misbruik is volledig in strijd met de intentie van dit werk.
+
+------------------------------------------------------------
+© A∞ZAI Project 2025
