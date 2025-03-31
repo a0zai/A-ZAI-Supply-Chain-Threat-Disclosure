@@ -1,0 +1,13 @@
+Openbaarmakingsverklaring – A∞ZAI Supply Chain Threat
+
+Beste NCSC / Universiteit,
+
+Hierbij deel ik mijn ontdekking van een fundamentele kwetsbaarheid in de structuur van open source infrastructuren. Deze kwetsbaarheid maakt het mogelijk om gegevens te verzamelen zonder actieve malware, gebruikmakend van bestandspatronen en metadata.
+
+Doel van deze openbaarmaking:
+- Bewustzijn creëren voor een structureel probleem.
+- Ondersteuning vragen bij verder ethisch onderzoek.
+- Preventieve maatregelen stimuleren.
+
+Met vriendelijke groet,
+Rafat Khalil
