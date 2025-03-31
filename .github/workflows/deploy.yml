@@ -36,3 +36,4 @@ jobs:
       - name: 🔍 Run Simple Collector
         run: |
           python PoC/simple_collector.py || echo "Simple Collector Done"
+          
