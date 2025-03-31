@@ -85,10 +85,8 @@ Dit project is uitsluitend bedoeld voor educatieve en ethische doeleinden.
 Geen enkele vorm van misbruik, aanval of ongeautoriseerde toegang wordt door de maker ondersteund.
 Gebruik dit project om bewustzijn te creëren over supply chain risico’s.
 
-⸻
-
+```
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=1000&lines=🧬+A∞ZAI+Supply+Chain+Threat+PoC+Active;🛡️+Cybersecurity+Starts+With+Awareness">
 </p>
-```
 
