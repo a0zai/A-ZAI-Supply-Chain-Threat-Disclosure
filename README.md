@@ -92,14 +92,6 @@ docs/technical_report.md
 Hierin worden alle stappen, gebruikte technieken en ethische richtlijnen toegelicht.
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/THREAT-MODEL-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/A∞ZAI-ETHICAL-00FFFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/STATUS-DISCLOSED-green?style=for-the-badge">
-</p>
-
-
-
 ⚠️ Disclaimer
 
 Dit project is uitsluitend bedoeld voor educatieve en ethische doeleinden.
