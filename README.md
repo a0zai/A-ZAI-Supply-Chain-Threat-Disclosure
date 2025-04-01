@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=1000&lines=🔰+A∞ZAI+Structural+Threat+Model+Report;⚠️+Ethical+Disclosure+Active;🌐+Supply+Chain+Integrity+Matters">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&lines=🔰+A∞ZAI+Structural+Threat+Model+Report;⚠️+Ethical+Disclosure+Active;🌐+Supply+Chain+Integrity+Matters">
 </p>
 
 <p align="center">
@@ -59,10 +59,11 @@ A∞ZAI-Supply-Chain-Threat-Disclosure/
 ├── LICENSE                       # MIT Licentie
 └── .gitignore                    # Git-ignore regels
 ```
+<details open>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F6C400&center=true&vCenter=true&width=1000&lines=📡+Monitoring+Supply+Chain+Risks;🔍+Structural+Patterns+Analysis;🧬+A∞ZAI+Philosophy+Applied">
 </p>
-⸻
+
 
 🔥 Belangrijke Bestandsonderdelen
 
@@ -106,6 +107,6 @@ Geen enkele vorm van misbruik, aanval of ongeautoriseerde toegang wordt door de 
 Gebruik dit project om bewustzijn te creëren over supply chain risico’s.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=1000&lines=🧬+A∞ZAI+Supply+Chain+Threat+PoC+Active;🌬️+Cybersecurity+Starts+With+Awareness">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=900&lines=🧬+A∞ZAI+Supply+Chain+Threat+PoC+Active;🌬️+Cybersecurity+Starts+With+Awareness">
 </p>
 
