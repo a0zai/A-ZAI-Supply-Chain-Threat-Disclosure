@@ -80,7 +80,7 @@ Anti-malware script dat jouw repository scant om verdachte patronen of verborgen
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=🌌+No+Hidden+Code+Here;🔬+Only+Structural+Awareness;🤖+Proof+Of+Concept+Validated">
 </p>
 
-⸻
+
 
 📜 Technisch Rapport
 
@@ -89,14 +89,14 @@ docs/technical_report.md
 
 Hierin worden alle stappen, gebruikte technieken en ethische richtlijnen toegelicht.
 
-⸻
+
 <p align="center">
   <img src="https://img.shields.io/badge/THREAT-MODEL-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/A∞ZAI-ETHICAL-00FFFF?style=for-the-badge">
   <img src="https://img.shields.io/badge/STATUS-DISCLOSED-green?style=for-the-badge">
 </p>
 
-⸻
+
 
 ⚠️ Disclaimer
 
@@ -105,6 +105,6 @@ Geen enkele vorm van misbruik, aanval of ongeautoriseerde toegang wordt door de 
 Gebruik dit project om bewustzijn te creëren over supply chain risico’s.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=1000&lines=🧬+A∞ZAI+Supply+Chain+Threat+PoC+Active;🛡️+Cybersecurity+Starts+With+Awareness">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=1000&lines=🧬+A∞ZAI+Supply+Chain+Threat+PoC+Active;🌬️+Cybersecurity+Starts+With+Awareness">
 </p>
 
