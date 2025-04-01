@@ -16,6 +16,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F6C400&center=true&vCenter=true&width=1000&lines=⚠️+Supply+Chain+Vulnerability+Simulation;A∞ZAI+Threat+Awareness+PoC">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=1000&lines=🔰+A∞ZAI+Structural+Threat+Model+Report;⚠️+Ethical+Disclosure+Active;🌐+Supply+Chain+Integrity+Matters">
+</p>
 
 ---
 
@@ -54,7 +57,10 @@ A∞ZAI-Supply-Chain-Threat-Disclosure/
 ├── README.md                     # Deze documentatie
 ├── LICENSE                       # MIT Licentie
 └── .gitignore                    # Git-ignore regels
-
+```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F6C400&center=true&vCenter=true&width=1000&lines=📡+Monitoring+Supply+Chain+Risks;🔍+Structural+Patterns+Analysis;🧬+A∞ZAI+Philosophy+Applied">
+</p>
 ⸻
 
 🔥 Belangrijke Bestandsonderdelen
@@ -70,6 +76,9 @@ Lichtgewicht script dat meta-informatie verzamelt en lokaal logt zonder externe 
 protection/protector.py
 
 Anti-malware script dat jouw repository scant om verdachte patronen of verborgen gegevens op te sporen.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=🌌+No+Hidden+Code+Here;🔬+Only+Structural+Awareness;🤖+Proof+Of+Concept+Validated">
+</p>
 
 ⸻
 
@@ -81,6 +90,13 @@ docs/technical_report.md
 Hierin worden alle stappen, gebruikte technieken en ethische richtlijnen toegelicht.
 
 ⸻
+<p align="center">
+  <img src="https://img.shields.io/badge/THREAT-MODEL-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/A∞ZAI-ETHICAL-00FFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/STATUS-DISCLOSED-green?style=for-the-badge">
+</p>
+
+⸻
 
 ⚠️ Disclaimer
 
@@ -88,7 +104,6 @@ Dit project is uitsluitend bedoeld voor educatieve en ethische doeleinden.
 Geen enkele vorm van misbruik, aanval of ongeautoriseerde toegang wordt door de maker ondersteund.
 Gebruik dit project om bewustzijn te creëren over supply chain risico’s.
 
-```
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=1000&lines=🧬+A∞ZAI+Supply+Chain+Threat+PoC+Active;🛡️+Cybersecurity+Starts+With+Awareness">
 </p>
