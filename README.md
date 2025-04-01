@@ -83,7 +83,6 @@ Anti-malware script dat jouw repository scant om verdachte patronen of verborgen
 </p>
 
 
-
 📜 Technisch Rapport
 
 Een volledig technisch rapport vind je in:
@@ -91,6 +90,9 @@ docs/technical_report.md
 
 Hierin worden alle stappen, gebruikte technieken en ethische richtlijnen toegelicht.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=🟢+System+Integrity+Stable;🟢+Monitoring+Active;🟢+No+Threat+Detected">
+</p>
 
 ⚠️ Disclaimer
 
