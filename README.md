@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=1000&lines=🔰+A∞ZAI+Structural+Threat+Model+Report;⚠️+Ethical+Disclosure+Active;🌐+Supply+Chain+Integrity+Matters">
+</p>
+
+<p align="center">
   <img src="https://github.com/a0zai.png" width="300" style="border-radius: 50%; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);">
 </p>
 <p align="center">
@@ -15,9 +19,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F6C400&center=true&vCenter=true&width=1000&lines=⚠️+Supply+Chain+Vulnerability+Simulation;A∞ZAI+Threat+Awareness+PoC">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=1000&lines=🔰+A∞ZAI+Structural+Threat+Model+Report;⚠️+Ethical+Disclosure+Active;🌐+Supply+Chain+Integrity+Matters">
 </p>
 
 ---
