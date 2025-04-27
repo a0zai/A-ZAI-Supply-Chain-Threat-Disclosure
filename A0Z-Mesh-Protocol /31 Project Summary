@@ -1,0 +1,5 @@
+The A0Z-MP project proposes a novel decentralized movement protocol for dynamic mesh networks.
+Instead of relying on traditional GPS coordinates or centralized routing tables, A0Z-MP organizes nodes based on human-inspired movement sequences:
+- **F** (Footstep) – representing larger movement steps.
+- **H** (Handspan) – representing fine-tuned minor adjustments.
+The protocol is lightweight, flexible, scalable, and designed for building organic, evolving network topologies without strict dependency on external infrastructure.
