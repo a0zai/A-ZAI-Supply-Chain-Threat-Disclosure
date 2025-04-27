@@ -1,0 +1,4 @@
+• Integrating lightweight data packet exchange synchronized with movement steps.
+• Introducing role-based differentiation within nodes (e.g., leader, follower).
+• Simulation on large node populations.
+• Security layer for authenticated node joining.
