@@ -1,0 +1,4 @@
+The A0Z-MP protocol is designed to build a dynamic, free-moving Mesh network.
+The network operates by guiding nodes through an encrypted sequence of commands based on two symbolic units:
+- **F (Footstep)**: Movement step using the foot.
+- **H (Handspan)**: Fine-tuned movement using the hand.
