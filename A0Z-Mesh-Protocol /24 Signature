@@ -1,0 +1,23 @@
+A0Z-∞-FH-01
+Project version: v0.1
+Date: April 27, 2025
+```
+[Start: Node Joins Network]
+          ↓
+[Receive Movement Sequence]
+          ↓
+[Parse first number + letter (F or H)]
+          ↓
+(Is it F?)
+    /             \
+ [Yes]            [No: Is it H?]
+  ↓                     ↓
+[Move Footstep]      [Move Handspan]
+  ↓                     ↓
+[Read next instruction]
+          ↓
+(Sequence finished?)
+    /             \
+ [No]             [Yes]
+  ↓                     ↓
+[Repeat]        [Wait / Idle / New Sequence]
