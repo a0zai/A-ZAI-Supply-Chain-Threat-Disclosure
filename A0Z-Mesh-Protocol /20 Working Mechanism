@@ -1,0 +1,6 @@
+1. Each node inside the network receives an encrypted movement sequence.
+2. The node reads the sequence as a number followed by a symbol (F or H).
+3. It performs the movement according to the symbol:
+   - **F** = Move by footstep distance.
+   - **H** = Move by handspan distance.
+4. After completing the entire sequence, the node either repeats or waits for new instructions.
