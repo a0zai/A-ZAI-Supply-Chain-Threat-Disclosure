@@ -59,7 +59,7 @@ A∞ZAI-Supply-Chain-Threat-Disclosure/
 ├── LICENSE                       # MIT Licentie
 └── .gitignore                    # Git-ignore regels
 ```
-<details open>
+∞<details open>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F6C400&center=true&vCenter=true&width=1000&lines=📡+Monitoring+Supply+Chain+Risks;🔍+Structural+Patterns+Analysis;🧬+A∞ZAI+Philosophy+Applied">
 </p>
