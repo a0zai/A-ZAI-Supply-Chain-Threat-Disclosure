@@ -1,0 +1,4 @@
+- **Human-based movement patterning**: Combining the natural rhythm of footsteps and hand spans to guide network node behavior.
+- **Infrastructure-free network expansion**: No GPS or internet backend required for basic operation.
+- **Self-healing and self-organizing**: Nodes move, adjust, and reposition autonomously based on the predefined movement sequence.
+- **Low-resource applicability**: Suitable for small devices, IoT environments, and constrained areas.
