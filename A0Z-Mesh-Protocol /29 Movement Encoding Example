@@ -1,0 +1,9 @@
+```plaintext
+1F2F3F2F1F9F10H20H30H20H1
+Where:
+• 1F → 1 Footstep (≈ 30cm)
+• 2F → 2 Footsteps (≈ 60cm)
+• …
+• 30H → 30 Handspans (≈ 6 meters)
+```
+Nodes interpret this sequence step-by-step and adjust their physical or virtual position accordingly.
