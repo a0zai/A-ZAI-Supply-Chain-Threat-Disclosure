@@ -1,3 +1,4 @@
+           ∞A █████████   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=🔰+A∞ZAI+Structural+Threat+Model+Report;⚠️+Ethical+Disclosure+Active;🌐+Supply+Chain+Integrity+Matters">
 </p>
