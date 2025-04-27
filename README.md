@@ -104,3 +104,4 @@ Gebruik dit project om bewustzijn te creëren over supply chain risico’s.
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=900&lines=🧬+A∞ZAI+Supply+Chain+Threat+PoC+Active;🌬️+Cybersecurity+Starts+With+Awareness">
 </p>
 
+© A0Z-∞-FH-01 | 2025
