@@ -1,15 +1,12 @@
            ∞A █████████   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=🔰+A∞ZAI+Structural+Threat+Model+Report;⚠️+Ethical+Disclosure+Active;🌐+Supply+Chain+Integrity+Matters">
+  <a href="https://github.com/a0zai/A∞ZAI-Supply-Chain-Threat-Disclosure">
+      <img src="https://img.shields.io/badge/-A∞ZAI_SUPPLY_CHAIN_THREAT-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github.com/a0zai.png" width="300" style="border-radius: 50%; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);">
-</p>
-<p align="center">
-  <a href="https://github.com/a0zai/A∞ZAI-Supply-Chain-Threat-Disclosure">
-      <img src="https://img.shields.io/badge/-A∞ZAI_SUPPLY_CHAIN_THREAT-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
 
 <p align="center">
